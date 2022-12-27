@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LauncherUpdater", "LauncherUpdater\LauncherUpdater.csproj", "{3E6F7086-E956-4DCC-82E4-FFB25E792F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E6F7086-E956-4DCC-82E4-FFB25E792F4B}.Debug|x64.ActiveCfg = Debug|x64
+		{3E6F7086-E956-4DCC-82E4-FFB25E792F4B}.Debug|x64.Build.0 = Debug|x64
+		{3E6F7086-E956-4DCC-82E4-FFB25E792F4B}.Release|x64.ActiveCfg = Release|x64
+		{3E6F7086-E956-4DCC-82E4-FFB25E792F4B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E515DB98-FEB0-438A-8A77-1FDBC33966C4}
+	EndGlobalSection
+EndGlobal
